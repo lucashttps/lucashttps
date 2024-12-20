@@ -7,8 +7,6 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building microsservices.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/techlucas/)
 ---
 
